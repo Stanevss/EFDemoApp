@@ -12,6 +12,12 @@ using Microsoft.Extensions.Logging;
 
 // Benifits of Entity Framework Core
 // 1. Fast development speed
+// 2.You don't have to know SQL
+
+// Benefits of Dapper
+// 1.Faster in production
+// 2. Easier to work with for SQL developer
+// 3. Designed for loose coupling
 
 namespace EFDemoWeb.Pages
 {
